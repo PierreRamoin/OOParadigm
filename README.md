@@ -1,7 +1,9 @@
 # OOParadigm_1
 ### English (French version follow)
 
-To compile the project, run this command from this folder: 
+The program gives no output, and it is on purpose.
+
+If you still want to compile the project, run this command from this folder: 
 
 ```mvn compile assembly:single```
 
@@ -10,8 +12,7 @@ Then, to launch it, run
 
 ```java -jar target/OOParadigm_1-1.0-SNAPSHOT-jar-with-dependencies.jar```
 
-
-The program gives no output, and it is on purpose.
+---
 Your goal is to browse the program to understand what it does on several levels.
 
 To do that, you should start on the entry class ```com.pierreramoin.example1.ToyExample```,
@@ -43,7 +44,9 @@ and try to answer the following questions:
 
 ### French
 
-Pour compiler, exécutez la commande suivante depuis ce répertoire :
+Le programme ne produit aucune sortie, c'est volontaire.
+
+Si vous souhaitez malgré tout compiler, exécutez la commande suivante depuis ce répertoire :
 
 ```mvn compile assembly:single```
 
@@ -52,8 +55,8 @@ Puis pour lancer le programme, lancer la commande suivante :
 
 ```java -jar target/OOParadigm_1-1.0-SNAPSHOT-jar-with-dependencies.jar```
 
+---
 
-Le programme ne produit aucune sortie, c'est volontaire.
 Votre objectif et de parcourir les sources du programme pour comprendre ce qu'il fait à différents niveaux.
 
 
