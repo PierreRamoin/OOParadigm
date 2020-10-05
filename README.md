@@ -22,26 +22,6 @@ and try to answer the following questions:
 - How many ```Transaction``` are listed in the ```BankAccount```, at the end of the execution ?
 - Does the company earn some money ?
 
-To compile the project, run this command from this folder: 
-
-```mvn compile assembly:single```
-
-
-Then, to launch it, run 
-
-```java -jar target/OOParadigm_1-1.0-SNAPSHOT-jar-with-dependencies.jar```
-
-
-The program gives no output, and it is on purpose.
-Your goal is to browse the program sources to understand what it does on several levels.
-
-To do that, you should start by read the ```main``` method, in the entry class ```com.pierreramoin.example1.ToyExample```,
-and try to answer the following questions:
-- At the highest level (the entry class), what is the program doing ?
-- Try to describe, how the```ToyCompany``` ```produce``` a toy ?
-- How many ```Transaction``` are listed in the ```BankAccount```, at the end of the execution ?
-- At the end of the execution, does the company have earned some money?
-
 ### French
 
 Le programme ne produit aucune sortie, c'est volontaire.
